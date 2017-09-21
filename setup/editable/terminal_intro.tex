@@ -1,0 +1,196 @@
+\documentclass[english,12pt]{article}
+
+%% Packages pull in extra commands:
+%% http://en.wikibooks.org/wiki/LaTeX/Packages
+\usepackage[latin9]{inputenc}
+\usepackage[letterpaper]{geometry}
+\geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage[parfill]{parskip}
+\usepackage{enumerate}
+\usepackage{hyperref} %% keep this package last
+
+% for code
+\usepackage{listings}
+\usepackage{color}
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{frame=tb,
+  language=Python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=2
+}
+
+\newcounter{qcounter}
+
+\begin{document}
+\title{Programming Bootcamp \\ Getting acquainted with the terminal}
+\author{Sarah Middleton}
+\date{Last Updated: \today}
+\maketitle
+
+This lab is intended to help you feel more comfortable with the terminal/command line. I highly recommend you complete it before our first meeting, especially if you have never used the command line before. If you need more help with any of the material here, please direct your questions to the Piazza forum so everyone can contribute/benefit from the answers.
+
+\section{Using the terminal}
+
+\subsubsection*{What is the terminal?}
+The terminal, or command line, is a way of interacting with your computer using text-based commands rather than pointing and clicking with a mouse. You can think of it sort of like a text-only version of the graphical windows you normally use to navigate directories (folders) and files on your computer. 
+
+Just like when you use the graphical interface, you are always ``in'' some folder when you use the command line. This is called the ``current directory''. When you first open the terminal, your will be in your ``home directory''. This may be a strange system folder you've never seen before, but that's ok. Using certain commands, we can figure out which folder we're in, display the contents of the folder, as well as navigate to other folders. You can do most of the things you normally do when you use the graphical interface, such as open files, delete files, make new folders, move files around, run programs, and more. \textbf{We can also do many things with the terminal that we can not do with the graphical folder system--this is why it's so important to learn.} It will feel slow at first, but stick with it and it will soon feel more natural.
+
+\subsubsection*{Anatomy of a command}
+A command will usually have three basic parts: the command itself, arguments, and options. A basic command might look something like this:
+\begin{verbatim}
+    someCommand -o filename
+\end{verbatim}
+
+\texttt{someCommand} - this is the basic command. It may or may not require further args/options. 
+
+\texttt{-o} - This is an option, which modifies the behavior of the command in some way. Options are usually optional. For example, if you use the \texttt{less} command to view the contents of a file, you can optionally put \texttt{less -S} to view the file without line-wrapping. Use the \texttt{man} command (short for ``manual", see next section) to find out what options are available to each command. Note that the Windows terminal uses a forward slash (e.g. \texttt{/o}) to indicate options instead of a dash.
+
+\texttt{filename} - This is what is sometimes called an ``argument'', or arg for short. An arg is just a piece of information, such as the name of a file, that may be optional or required for the command to work. Again, always refer to the \texttt{man} page if you're not sure what args are needed for a command. 
+
+
+\subsubsection*{Basic commands}
+Below is a list of basic terminal commands that we'll be using throughout the course. Unfortunately, commands differ somewhat between Windows and Unix (Mac/Linux) systems; in those cases you'll see two different commands listed. 
+\\
+
+\begin{tabular}{l | l | p{5cm} | p{5cm}}
+	Command (Unix) & Windows & Purpose & Examples \\ \hline
+	ls & dir & Display contents of current directory (files, folders) & ls \\ \hline
+	cd [dirname] &  & Change to a directory & cd MyCode \\ 
+	 & & within the current directory & cd MyCode/research \\ \hline
+	cd .. & & Go up/back one directory & cd .. \\
+	 & & or multiple directories & cd ../../../MyCode \\ \hline
+	man [command] & help [command] & Manual. Display detailed & man cd \\
+	 & & info about a given & help dir \\
+	 & & command. Very useful! & man man \\ \hline
+	mkdir [dirname] & & Make a new directory within the current one & mkdir NewFolder \\ \hline
+	pwd & cd & Prints the path of the current directory & pwd \\ \hline
+	less & more & View contents of a file one & less myfile.txt\\
+	 & & ``page'' at a time & more myfile.txt \\ \hline
+	
+	
+\end{tabular}
+\\
+
+There are many more commands, but this is all we need for now.
+
+\subsubsection*{Other useful tips}
+
+\begin{list}{}{}
+\item - Typing \texttt{cd} with no file name brings you back to your home folder from anywhere (Unix only).
+\item - Tab auto-completion: if you start typing the name of a file/folder and then hit tab, the rest of the name will automatically be completed for you--but only it is in the current directory and there is no other file/folder in that directory with the same prefix that you have typed so far.
+\item - To reuse a command you already entered previously, use the up and down arrow keys to cycle through your command history.
+\item - When you use commands like \texttt{man} or \texttt{less}, your screen will be filled with text and you can use your arrow keys to scroll up and down (Unix only. In Windows use the enter key). Press \texttt{q} to go back to the command line (everything you had before will still be there).
+\end{list}
+
+
+
+\subsubsection*{Practice}
+
+\begin{enumerate}
+\item First, open a terminal window:
+
+\begin{quote}
+\textbf{Windows}: Go to Start $\textgreater$ All programs $\textgreater$ Accessories $\textgreater$ Command Prompt. 
+\textbf{OS X}: Go to Applications $\textgreater$ Utilities $\textgreater$ Terminal. 
+\end{quote}
+
+
+\item Your first goal is to figure out which directory on your computer you're currently in. This will be different depending on your operating system. In Windows 7, I see this next to my cursor:
+\begin{verbatim}
+    C:\Windows\System32>
+\end{verbatim}
+
+This makes things easy, since it tells me exactly where I am. In other terminal programs you may see something different. If you are on a Unix machine, try using \texttt{pwd}. Here's what I see when I do this on Cygwin (which emulates the Unix terminal on Windows):
+\begin{verbatim}
+    $ pwd
+    /home/Sarah
+\end{verbatim}
+
+So in Cygwin I am in a directory called \texttt{Sarah}, which is within the directory called \texttt{home}.
+
+\item Display the contents of your current directory using \texttt{dir} if you are on Windows, and \texttt{ls} otherwise. You will see a list of all files and folders. When I do this in Windows, I get a huge list of files that don't mean much to me, since I am in a system folder. 
+
+\item Your next goal is to figure out how to get to the directories on your computer where you normally store your files, e.g. My Documents. Since this will be different for everyone, I can't give you exact directions. You will need to use a combination of \texttt{cd} and \texttt{ls/dir} to navigate around. Remember that you can use \texttt{cd ..} to go ``up" a directory (i.e. move to the directory that contains the current directory).
+
+Here is how I did it, though it will most likely be different for you:
+\begin{quote}
+\begin{verbatim}
+C:\Windows\System32> cd ..
+C:\Windows> cd ..
+C:\> cd Users
+C:\Users> cd Sarah
+C:\Users\Sarah> cd Documents
+C:\Users\Sarah\Documents>
+\end{verbatim}
+\end{quote}
+
+It's important that you know how to do this before we start the course, since we'll need to access and run code that will most likely be stored in one of your document folders.
+
+\item Now we are going to make a directory where you will store your code for this course. Navigate to a directory where you would like this new directory to be, then type:
+\begin{quote}
+\begin{verbatim}
+mkdir PythonBootcamp
+\end{verbatim}
+\end{quote}
+You can call it something else, if you want. Next, display the contents of your current directory using \texttt{ls/dir}. You should see the new directory you created. Navigate into the new directory, and then create another new one called \texttt{lab1}. You'll use this for the exercises for the first class.
+
+\item Navigate to a folder where you already have some documents stored. Try viewing a file using \texttt{less} or \texttt{more}. You will notice that if you do this with non-plain text documents, such as PDFs and Word documents, you just get a bunch of strange characters. (If you get a message about the file being binary, press ``y'' to continue). We can only view plain text files in the terminal. If you have a plain text file (the extension will probably be .txt), try that. It should be readable. 
+
+If you do not have any plain text files, go ahead and create one using a plain text editor (just copy and paste any old text in there, the more the better). Verify that you can view this in the terminal. Make sure you know how to scroll through the text and exit back to the command line (see Useful Tips above).
+
+\item Try the following commands (use a directory with at least a few files in it): 
+
+\begin{center}
+\begin{tabular}{p{5cm} | p{5cm}}
+	Unix & Windows \\ \hline
+	ls & dir \\
+	ls -l &  \\
+	ls -l -S & dir /O:S \\
+	ls -R & dir /S
+\end{tabular}
+\end{center}
+
+Note what changes when you use different options. Use the \texttt{man} command (\texttt{help} on Windows) to view the manual page for this command to verify what the different options do. Take note of any other options you think would be useful, and feel free to try them out. I also suggest you look at the manual pages for \texttt{less/more}, as there are many useful options there.
+
+
+\end{enumerate}
+
+
+
+\section{Further reading}
+If you want to learn more about using the Unix terminal, I highly recommend the Unix/terminal introduction found here: \url{http://korflab.ucdavis.edu/Unix_and_Perl/unix_and_perl_v2.3.7.pdf}. It goes into a lot more detail and explains some of the nuances that I've glossed over, but is very readable and newbie-friendly. The Unix stuff starts on pg. 15 (you can ignore the Perl stuff!).
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
