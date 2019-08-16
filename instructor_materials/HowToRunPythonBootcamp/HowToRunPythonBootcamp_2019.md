@@ -33,7 +33,7 @@ A few months out meet with TAs (first meeting)
    3. Loops & Custom Functions
    4. Lists & Reading Files
    5. Dictionaries & Writing Files
-   6. Python Modules
+   6. Custom Modules and Writing Scripts with argparse, sys, and os
    7. Pandas Crash Course
    8. Visualization
 * Assign who will teach which lectures
