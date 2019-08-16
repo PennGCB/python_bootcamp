@@ -1,0 +1,17 @@
+- Multiple choice answers
+
+1. How do you feel about having bootcamp once a week?
+	- Perfect
+	- Would rather have it twice a week
+	- Other
+2. How did you feel about the structure of the class? (Eg. going over homework at the beginning of class, lecture, and working for the rest) Is there anything you would change?
+3. Do you have any feedback for Apexa (Speaker 1)? 
+What was good that she did? What could she improve on?
+4. Do you have any feedback for Scott (Speaker 2)? What was good that he did? What could he improve on?
+5. Do you have any feedback for the TAs? Could they have been more helpful? How?
+6. Are there any topics you wish were covered?
+7. Would you like to TA next time? If yes, please answer with your name and email.
+8. How did you feel about homework feedback? Did you ever read the feedback?
+9. On a scale of 0-5 how much has your python skills improved since taking this class? (0-5)
+10. If you were on Yelp, how many stars would you give the class? (1-5)
+11. Is there anything else we should know?

@@ -1,0 +1,59 @@
+- Multiple choice answers
+
+1. Name (not required)
+2. Email (not required)
+3. Were you an online-only student?
+	- Yes
+	- No
+	- Yes, but I came to class anyway (Shhhhh....)
+	- Whats that?
+4. How many classes did you attend? (0-8)
+5. How many labs did you turn in? (0-7)
+6. How many labs did you attempt but not turn in because they were incomplete? (0-7)
+7. What did you think about the week 6 lecture?
+This lecture dived into using python scripts outside of jupyter notebook. We taught students about file path structure, how to write your own modules, run your own scripts, and how to use the following libraries: argparse, sys, and os
+	- 4: It was perfect
+	- 3: It needs some improvements
+	- 2: In needs A LOT of improvement
+	- 1: I hated it. It should be removed from the syllabus
+	- I didn't attend nor do the homework
+8. If your response for the last question was 2 or 3, please explain what you believe can be improved?
+What should be taken out? What should definetly be kept? Which part could we improved upon?
+9. What did you think about the week 7 lecture?
+This lecture dived into the pandas library. We learned to create pandas series and dataframes, import a pandas dataframe, slice a dataframe, write dataframes to a file, update dataframes, combine data frames together, group dataframes, and apply functions to dataframes
+	- 4: It was perfect
+	- 3: It needs some improvements
+	- 2: In needs A LOT of improvement
+	- 1: I hated it. It should be removed from the syllabus
+	- I didn't attend nor do the homework
+10. If your response for the last question was 2 or 3, please explain what you believe can be improved?
+What should be taken out? What should definetly be kept? Which part could we improved upon?
+11. Do you have any feedback for the speaker for weeks 6 and 7 (Sammy)?
+What was good that she did? What could she improve on?
+12. What did you think about the week 8 lecture?
+This lecture dived into plotnine and creating plots with python.
+	- 4: It was perfect
+	- 3: It needs some improvements
+	- 2: In needs A LOT of improvement
+	- 1: I hated it. It should be removed from the syllabus
+	- I didn't attend nor do the homework
+13. If your response for the last question was 2 or 3, please explain what you believe can be improved?
+What should be taken out? What should definetly be kept? Which part could we improved upon?
+14. Do you have any feedback for the speaker for week 8 (Ben)?
+What was good that he did? What could he improve on?
+15. How do you feel about our homework content? (1-5)
+	- 1: the homeworks are awful so I quit the course
+	- 2
+	- 3
+	- 4
+	- 5: perfect
+16. If your response for the last question was between 2-4, please explain what you believe can be improved?
+Was there a specific homework that you thought was too long? too short? Were the questions not relevant enough? Could it be organized better?
+17. Do you have any feedback for the TAs? 
+Was there anything that a specific TA did that was really helpful? Could they have been more helpful? How? 
+18. On a scale of 0-5 how much has your python skills improved so far?
+19. How did you feel about the order of the lectures? Would you change anything?
+lab1: Introduction, lab2: Conditionals (If/Else), lab3: Loops and Custom Functions, lab4: lists and file reading, lab5: dictionaries and file writing, lab6: scripts & internal python modules (argparse, sys, os), lab7: pandas module, lab8: visualization
+20. Having completed the course, how do you feel about its overall structure?
+Did you like having lectures once a week for 8 weeks or would you rather twice a week for 4 weeks? How did you feel about the structure of each class where we reviewed homework first, had the lecture, and then worked on homework/classwork? Did you want more in-class assignments? What would you add?
+21. Have anything else to say? Write it below!

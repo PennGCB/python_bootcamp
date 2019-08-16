@@ -1,0 +1,43 @@
+Perfect- Multiple choice answers
+
+1. Name (not required)
+2. Email (not required)
+3. How do you feel about having bootcamp once a week?
+	- Perfect
+	- Would rather have it twice a week
+	- Other
+4. How did you feel about the structure of the class? (Eg. going over homework at the beginning of class, lecture, and working for the rest) Is there anything you would change?
+5. How have you felt about the content of the labs (homework)?
+	- Perect
+	- Great, but always room for improvement
+	- They stressed me out
+	- I am not sure how I feel about them
+	- I never did the homework
+6. Was there a specific lab you really liked? Why
+7. Was there a specific lab you thought was bad? Why?
+8. If you did the labs, but you thought they were generally less than perfect, why did you feel that way? Was there anything general that we could fix?
+9. How did you feel about the in-class assignments?
+	- Loved them! I wish we had them for every class.
+	- I enjoyed them, but we don't need one for every class
+	- I'm indifferent
+	- I hated them. They stressed me out more than anything.
+	- Other
+10. How do you feel about our homework feedback?
+	- Great! The feedback has been super helpful
+	- Need improvement
+	- It is a waste of the TA's time. I never look at it
+	- I don't do the homeworks
+11. What do you specifically like/dislike about the feedback?
+In other words, what do you LIKE about the feedback you have been given? What you do NOT LIKE about the feedback you have been given? How would you suggest we IMPROVE our grading process?
+12. Do you have any feedback for Apexa (Speaker)? 
+What was good that she did? What could she improve on?
+13. Was there anything that a specific TA did that was really helpful? Could they have been more helpful? How? 
+Was there anything that a specific TA did that was really helpful? Could they have been more helpful? How? 
+14. On a scale of 0-5 how much has your python skills improved so far? (0-5)
+15. How did you feel about the snacks?
+	- Perfect
+	- More drinks, less food
+	- More food, less drinks
+	- Distracting
+	- Other
+16. Is there anything else we should know moving forward?

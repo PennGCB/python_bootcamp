@@ -1,0 +1,19 @@
+* Required Questions
+- Multiple choice answers
+
+
+1. Email Address*
+2. Name*
+3. Position:
+	- Graduate Student
+	- Postdoc
+	- Staff
+	- Undergrad
+	- Other
+4. Affiliation
+For example: BGS, Biology, etc.
+5. Please indicate your level of interest in this bootcamp. (1-5)
+6. Have you participated in the in-person bootcamp before?
+	- Yes
+	- No
+	- Other

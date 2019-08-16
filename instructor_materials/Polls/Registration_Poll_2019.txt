@@ -1,0 +1,33 @@
+* Required Questions
+- Multiple choice answers
+
+
+1. Email Address*
+2. Name*
+3. How much would you like to Participate?*
+	- I would like to register as an active participant (I want to come to class)
+	- I just want to participate in the Piazza forum
+	- Other
+4. Based on your current schedule, which classes would you attend?
+If you only want to go to a few we may just register you for those specific classes.
+	- 1 Introduction to programming, python, jupyter (6/25, 8-146AB Smilow)
+	- 2 Conditional (if/then…) (7/2, 8-146AB Smilow)
+	- 3 Loops & Custom Functions (7/9, 8-146AB Smilow)
+	- 4 Data structure: Lists (7/16, 8-146AB Smilow)
+	- 5 File writing & dictionaries (7/23, 8-146AB Smilow)
+	- 6 Modules & Introduction to Pandas DataFrames (7/30, 8-146AB Smilow)
+	- 7 Join & GroupBy in Pandas DataFrames (8/6, 8-146AB Smilow)
+	- 8 Visualizations & Awards (8/13, 8-146AB Smilow)
+5. Do you know any other programming languages?
+	- Yes
+	- No
+6. If the answer to the last questions was yes. Which ones?
+7. Have you ever taken a programming course before?
+	- Yes, it also taught python.
+	- Yes, but it did not teach python.
+	- No
+8. Are you a PhD student? If not, what are you?
+	- Yes
+	- Other
+9. If you are a student, how far are you into your degree?
+10. What are your goals for the course? What do you want to get out of it?

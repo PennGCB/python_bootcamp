@@ -1,0 +1,123 @@
+Position:	Affiliation:	Please indicate your level of interest in this bootcamp.	Have you participated in the in-person bootcamp before?
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	4	Yes
+Graduate Student	BGS	5	No
+Staff	Biology	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	5	No
+Postdoc	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	Yes, but I was not able to come to most of the classes.
+Graduate Student	BGS	4	No
+Graduate Student	BGS	5	No
+Postdoc	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Staff	School of Medicine	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Graduate Student	Biology	4	No
+Graduate Student	Biology	4	No
+Graduate Student	Biology	3	No
+Graduate Student	Biology	5	No
+Postdoc	Biology	5	No
+Graduate Student	Biology	4	No
+Staff	Biology	5	No
+Staff	Biology	5	No
+Postdoc	Genetics	5	No
+Postdoc	Biology	5	No
+Graduate Student	Biology	5	No
+Faculty	Biology	5	No
+Postdoc	Genetics	5	No
+Postdoc	Genetics	5	No
+Staff	MindCore / Communication Neuroscience Lab	5	No
+Undergrad	CIS	4	No
+Staff	CHOP	5	Yes, but I was not able to come to most of the classes.
+Postdoc	Biology	5	No
+Graduate Student	BGS	5	No
+Undergrad	CNDS	5	No
+Postdoc	Neuroscience	5	No
+Grad student until end of July, starting a post-doc August 1st	Annenberg and Wharton	3	No
+Undergrad	Biology	5	No
+Associate - Visiting Scholar	Psychology	5	No
+Undergrad	PSOM Neuroscience 	5	No
+Staff	neurosurgery	5	No
+Graduate Student	BGS	5	No
+Postdoc	Annenberg School for Communication	5	No
+Postdoc	BPP	5	No
+Undergrad	Cognitive Science	5	No
+Staff	Neuroscience/Otorhinolaryngology (Geffen Lab of Auditory Coding)	5	No
+Graduate Student	GSE	5	No
+Staff	Penn School of Medicine 	4	No
+Undergrad	COGS	4	No
+Postdoc	Physics, Computational Neuroscience Initiative	5	No
+Postdoc	Annenberg	5	No
+Postdoc	Neurology	5	No
+Graduate Student	Linguistics	5	No
+Staff	Annenberg / Center for Cognitive Neuroscience	4	No
+Visiting Scholar	Department of Neurology	5	No
+Faculty	Psychiatry	5	No
+Graduate Student	Annenberg, Falklab	5	No
+Postdoc	CCN / Neurology	5	No
+Staff	Neurology	4	No
+Adjunct Fellow, Center for Public Health Initiatives/Perelman School Of Medicine	Center for Public Health Initiatives/Perelman School of Medicine	5	No
+Staff	Biology	5	Yes
+Graduate Student	BGS	5	No
+Postdoc	Psychiatry/Addictions	4	No
+Undergrad	Center for Cognitive Neuroscience: Goddard Laboratories 	5	No
+Undergrad	COGS Department UPenn	5	No
+Staff	Communication Neuroscience Lab	5	No
+Graduate Student	UPenn SEAS CIS department - Natural Language Processing	5	No
+Undergrad	Cognitive Science	5	No
+Undergrad	Biology	5	No
+Staff	Department of Psychiatry 	5	No
+Postdoc	BGS	5	No
+Graduate Student	linguistics	4	No
+Recent Graduate (May 2018)	Alumni	5	No
+visiting scholar	Penn Image Computing and Science Laboratory	5	No
+Undergrad	Neuroscience 	5	No
+Graduate Student	Medicine	5	No
+Graduate Student	Biology	4	No
+Staff	Center for the Neuromodulation of Depression and Stress	2	No
+Graduate Student	BGS	3	No
+Undergrad	Biology	5	No
+Graduate Student	SEAS	4	No
+Graduate Student	BGS	3	No
+Graduate Student	BGS	5	No
+Postdoc	Psychiatry	3	No
+Postdoc	Perelman School of Medicine	5	No
+Graduate Student	BGS	5	No
+Undergrad	Biology	5	No
+Undergraduate Student Intern 	IBI	4	No
+Undergrad	NGG	5	No
+Graduate Student	BGS	5	No
+Graduate Student	BGS	5	No
+Undergrad	Cognitive Science with a concentration in Computation	3	No
+Graduate Student	BGS	4	No
+Graduate Student	BGS	4	No
+Graduate Student	Biology	3	No
+Undergrad	Biology	5	No
+Postdoc	Neuroscience	5	No
+Postdoc	Neuroscience 	5	No
+Graduate Student	BGS	3	No

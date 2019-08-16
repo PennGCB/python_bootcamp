@@ -1,0 +1,48 @@
+﻿Python Bootcamp Meeting 6/15
+Attendees: Raju M.,Sammy K.,Matt P.,David N, Max S. 
+
+
+Planning
+Workshop format: 8 sessions, Tuesdays & Thursdays 10:30-12:30, during month of September        
+                -Lecture/Demo: 30-40 minute, rest of the time go through exercise
+                - Assignment given out Thursday, graded.
+                - Class forum: Piazza (as Scott if he’d like to help)
+                - last lecture; Applications +  visualizations
+Grading : Pick a module, 
+Curriculum (based off of Sarah’s slide): 
+        Lab1: Introduction to programming, python, jupyter
+        Lab2: Conditional (if/then…)
+        Lab3: Loops
+        Lab 4: Custom functions
+        Lab 5: Data structure: Lists
+        Lab 6: File writing & dictionaries
+        Lab 7: Modules
+        Lab 8: Visualization & Applications
+        
+Audience: Advertize to to all of BGS and Biology?? Whoever hears about it. Cap at 50.
+
+
+BUDGET!
+Contact Hannah or Geoffrey about IBI funding workshop.
+Last year funding was for food. $1,988.00 for coffee, mini pastries, fresh fruit tray, $15 delivery.
+Merit request through BGS (at most $500) Souvenir like last time? Stickers?Mugs again? For TAs and top students (Sammy pick!)
+IRCS funds summer “mini-courses” at the time. Sarah’s contact for this was Jessica Marcus (jmarcus@seas.upenn.edu).
+GAPSA- more competitive, will need to give presentation. Open to full graduate community.
+
+
+Marketing
+Workshop/ Bootcamp Ad!
+Discuss at first BGSA GBM meeting 
+Send flyer to BGSA Operations to send out to lister server
+Tell GCB students to tell non-GCB friends and labmates
+Facebook group
+GCB Twitter
+Sign up : Google form?Assign spots. Randomly pick. Email them if they got a spot. 
+
+
+TA sign up sheet - Matt
+   Need at least three a meeting
+
+
+Additional notes:
+R workshop in the Spring
