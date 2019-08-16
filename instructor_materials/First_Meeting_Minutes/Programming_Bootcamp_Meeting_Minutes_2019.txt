@@ -1,0 +1,42 @@
+AGENDA		
+		
+Review		
+Go over feedback from last year's participants
+	-Maybe get name tags for TAs?	
+	-Ask students to bring paper and pen	
+
+Logistics		
+Start Date?	
+	- Summer easier to get rooms and less responsibilities at the time for students and Tas	
+	- June 18-Aug 6th (Tuesdays @ 4pm Smillow)
+Number of Classes Per Week?
+	- "Feed back from 2 Classes Per Week: It was not enough time to complete assignments, if students go on vacation during summer they more likely to miss more than one class."
+	- We decided on 1 class per week
+Organize Funding? (Typically GCB/BGSA/IBI)
+	- Apexa & Alex Lee, maybe ask BGSA for funds
+	- Sammy needs to check for IBI funds
+Prizes?		 
+	- Previous Years: Mugs, Drawstring Backpack, Hard-Drive	 
+	- New ideas: (Bumper)Sticker, Popsocket, Phone wallet sticker, Shirts, Caps, Beanies	Popsocket!
+	- We decided on Popsockets (Future Sammy says they are trendy now but not worth it)
+How many registrants can we accomodate in the room?
+	- Maureen says 40, but everyone can have the option to join Piazza
+		
+Recruitment		
+TA recruitment
+	- Post on Slack, Email GCB (and IBI?) list-serve for TA recruitment, Biology Listserve	
+Assigning Jobs/Resonsibilities	
+	- See TA Sign-Up and Job_Role_Descriptions.tsv
+	- Alternating Lectures in the past made it too confusing for students, and lack cohesion. 2 last year seems to work well?	
+Participant Recruitment
+	- Advertise to BGSA and Biology department for at 2-3 weeks ahead. Maybe have a date for when registration opens and advertise that. You can expect over 100 people to sign up. Sammy has the flier but some of it can be seen in "Advertising Email Example" tab	
+Registration Deadline for TAs? Deadline for Attendees? Date participants will be notified of their acceptence?	
+	- May 31st: TA deadline, Registration: May 10-May24th, 27th will be Notified (Others will be put on wait list)	
+
+Content/Subject of each Class		
+Lecture Organization	
+	"Each class we would start off with intro, or go over common mistakes on HWK, go through the lecture, and then allow students to work on HWK with TAs around to help (introduce TAs). "	
+		
+		
+Other		
+Office hours/Programming cafe for for help with assignments or real -data problems (python and R)		

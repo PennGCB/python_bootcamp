@@ -1,0 +1,64 @@
+﻿Programming Bootcamp Meeting Minutes 05-17-18
+Attendees: Raju, Scott, Will, Chris, Sammy, Binglan, Apexa
+Key points discussed:
+* Format of sessions (4 week, two classes a week 2 hours each) It was not enough time to complete assignments, if students go on vacation during summer they more likely to miss more than one class.
+* When sessions are held (Fall vs Summer) Summer easier to get rooms and less responsibilities at the time for students and Tas
+* Number of lectures
+   * Alternating is too confusing for students, and lack cohesion.
+   * Apexa, Scott, and Sammy expressed interest in instructing workshops.
+   * Limiting it to two though :/ 
+* There was a lot of demand for R workshops. Do we do a separate short (1 day) workshop?
+   * Binglan is interested in helping with R
+   * No to having a separate R workshop
+      * Adding one more session for Visualization in R was suggested
+* Qualifications to TA
+   * Must complete all in class activity and homework for the relevant sessions
+* Qualifications to Lecture
+   * At least 2 years of experience in coding in python
+   * Experience TAing or instructing (+)
+   * Committing to full session even if you are not lecturing that day (can miss 1-2 sessions) 
+   * Complete in class activity and homework
+* Office hours/Programming cafe for for help with assignments or real -data problems (python and R)
+* Homework/Info platform
+   * Piazza
+   * Google drive
+   * Box
+   * Have to do homework to attend next lecture
+   * Revamp Homework activities session 
+      * Email Casey Greene about compensation or provide lunch and snacks
+
+
+
+
+8 Weeks
+* 4-6pm 
+* Complete homework in order to attend
+* Summer → Bigger class
+* Allows for vacation
+* All material available on piazza/box
+* TA session later in week, can be bootcamp question or python or R question related to their work
+   * Compensation?
+      * BGSA - Food
+      * Email Geoffrey if IBI can do salary? Penn can’t do gift cards/salary
+      * Casey Greene C
+
+
+Action Items
+* Email Geoffrey if IBI can fun programming bootcamp again
+* Email Casey Greene It’s against Penn policy to get gift cards or provide salary for these sort of things so purchase order items
+* See room availability
+* Get availabilities/vacation dates from Scott, Sammy and Apexa
+* Make syllabus Posted on piazza
+* Make registration form and advertisements-  https://goo.gl/forms/ILSvm4bMq9Ztl6Rt2
+   * Send out registration form
+   * Advertisement - written 
+* Budget breakdown
+* Find prizes for top students
+   * https://cms.business-services.upenn.edu/purchasing/making-purchases/find-a-supplier/supplier-search.html 
+* Email Apexa and Scott, material. Needs to be python 3.6
+* Email TAs appropriate hwk to test
+* Workshops will be held once a week for 6 weeks.
+   * Best availability: Wednesdays July 11th - August 15th, 4-6pm  SCTR 11-146
+      * Capacity: 56
+   * Volunteer appreciation dinner
+      * August 22 (SCTR 9-146) or 29th (SCTR 11-146) 4-6pm
