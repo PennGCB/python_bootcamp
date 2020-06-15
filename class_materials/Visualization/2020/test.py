@@ -1,11 +1,10 @@
-import statistics
-
 import scipy.stats
 
 
 def test_mean(data, prediction):
     try:
-        assert abs(statistics.mean(data) - prediction) < .01
+        mean = sum(data) / float(len(data))
+        assert abs(mean - prediction) < .01
     except AssertionError:
         print('Your calculate_mean function is not working correctly')
         return
@@ -72,3 +71,33 @@ def test_heatmap_melt(df):
     print('You successfully reformated your dataframe')
 
 
+def test_box_read(df):
+    try:
+        assert len(df) == 50
+    except AssertionError:
+        print("Your dataframe doesn't have the correct number of rows, are you sure you read the correct file?")
+        return
+    except TypeError:
+        print("Your read_data function isn't impemented yet")
+        return
+
+    try:
+        assert len(df.columns) == 2
+    except AssertionError:
+        print("Your dataframe doesn't have the correct number of columns, are you sure you read it as a tab separated file?")
+        return
+
+    print('You successfully read in the dataset')
+
+def test_box_melt(df):
+    try:
+        assert len(df) == 100
+    except AssertionError:
+        print("Your dataframe doesn't have the correct number of rows.")
+        print("Looking back at the reformattingg code in the previous question might help.")
+        return
+    except TypeError:
+        print("Your melt function isn't impemented yet")
+        return
+
+    print('You successfully reformatted the dataset')
