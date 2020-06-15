@@ -16,7 +16,7 @@ import pandas as pd
 import scipy.stats
 from plotnine import ggplot, aes, geom_point, ggtitle
 
-from test_q1 import test_mean, test_regression
+from test import test_mean, test_regression
 
 
 def calculate_mean(data):
