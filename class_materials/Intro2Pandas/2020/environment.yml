@@ -1,0 +1,17 @@
+name: py_bootcamp
+
+channels:
+- conda-forge
+dependencies:
+- conda-forge::python=2.7
+- conda-forge::scikit-learn
+- conda-forge::pandas
+- conda-forge::seaborn
+- conda-forge::plotnine
+- conda-forge::ipykernel
+- conda-forge::nb_conda_kernels
+- conda-forge::gxx_linux-64
+- conda-forge::libiconv=1.15
+- pip=9.0
+- pip:
+  - matplotlib
