@@ -23,10 +23,10 @@ def test_q2_shape(df):
     print("You successfully filtered the dataset")
 
 
-def test_q2_statement(str):
+def test_q2_statement(statement):
     try:
         assert (
-            str
+            statement
             == "Drug Ebselen is 1.05133928571 times more effective then the second most commonly effective drug, Remdesivir"
         )
     except AssertionError:
