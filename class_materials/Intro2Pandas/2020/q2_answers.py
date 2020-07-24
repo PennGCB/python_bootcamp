@@ -92,7 +92,7 @@ def get_most_effective_drugs(nonzero_df):
         nonzero_df.groupby(["Drug"])["Effect"]
         .agg(["count", "mean"])
         .sort_values("count", ascending=False)
-        .head(5)
+        .head(3)
         .sort_values("mean", ascending=False)[:2]
     )
 
