@@ -43,7 +43,7 @@ def filter_patients(df):
         The dataframe after filtering
     
     """
-    nonzero_df = df[df["Effect"] >= 0]
+    nonzero_df = df[df["Effect"] > 0]
     return nonzero_df
 
 
