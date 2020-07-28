@@ -46,7 +46,7 @@ def filter_patients(df):
         The dataframe after filtering
     
     """
-    nonzero_df = df[(df["Effect"] >= 0) & (df["Year"] > 2015)]
+    nonzero_df = df[(df["Effect"] > 0) & (df["Year"] > 2015)]
     return nonzero_df
 
 
