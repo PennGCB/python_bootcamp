@@ -3,7 +3,8 @@
 
 A few months out meet with TAs (first meeting)
 * Clearly outline duties for each role
-   *Seems differences in expectations for each role lead to uneven distribution of work in past years*
+
+   (*Seems differences in expectations for each role lead to uneven distribution of work in past years*)
    1. Lecturer:
       * Create lecture material
       * Write homework
@@ -57,6 +58,8 @@ A few months out meet with TAs (first meeting)
 * Assign who will teach which lectures
    1. Alternating Lecturers in the past made it too confusing for students, and lack cohesion.
    2. I found that if a lecturer plans to teach lectures he/she must attend previous lectures so that he/she is familiar with what the students already know or do not know. 
+* Can GCB endorse student's programming skills on Linked In after taking the course? (checking with Maureeen)
+   1. Note: This will be in place of a certificate/credit, which we cannot do unfortunately
 
 
 Right After Meeting but Before Class Starts
