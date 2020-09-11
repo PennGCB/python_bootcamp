@@ -58,8 +58,9 @@ A few months out meet with TAs (first meeting)
 * Assign who will teach which lectures
    1. Alternating Lecturers in the past made it too confusing for students, and lack cohesion.
    2. I found that if a lecturer plans to teach lectures he/she must attend previous lectures so that he/she is familiar with what the students already know or do not know. 
-* Can GCB endorse student's programming skills on Linked In after taking the course? (checking with Maureeen)
-   1. Note: This will be in place of a certificate/credit, which we cannot do unfortunately
+* Can GCB endorse student's programming skills on Linked In after taking the course?
+   1. Maureen says she can endorse as GCB coordinator on Linked In, but not via the GCB Linked In group. Would need to provide students her contact.
+   2. Note: This will be in place of a certificate/credit, which we cannot do unfortunately
 
 
 Right After Meeting but Before Class Starts
