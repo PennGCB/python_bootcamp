@@ -2,6 +2,24 @@
 
 
 A few months out meet with TAs (first meeting)
+* Clearly outline duties for each role
+   *Seems differences in expectations for each role lead to uneven distribution of work in past years*
+   1. Lecturer:
+      * Create lecture material
+      * Write homework
+      * Monitor piazza and grade assignments/answer questions
+      * Attend TA sessions
+   2. TA:
+      * Attend TA sessions
+      * Monitor piazza and grade assignments/answer questions
+      * Review material from lecture
+   3. Admin/organizer:
+      * Make surveys and disseminating responses/feedback
+      * Upload lecture recordings
+      * Set up bluejeans/reserving room
+      * Recruit TAs
+      * Make sure there are enough TAs per session, when things come up from TAs
+      * Make sure TAs have needed material for the week
 * Go over feedback from last year's participants
 * Decide on Dates
    1. Date to end student registration
