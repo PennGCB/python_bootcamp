@@ -2,6 +2,25 @@
 
 
 A few months out meet with TAs (first meeting)
+* Clearly outline duties for each role
+
+   (*Seems differences in expectations for each role lead to uneven distribution of work in past years*)
+   1. Lecturer:
+      * Create lecture material
+      * Write homework
+      * Monitor piazza and grade assignments/answer questions
+      * Attend TA sessions
+   2. TA:
+      * Attend TA sessions
+      * Monitor piazza and grade assignments/answer questions
+      * Review material from lecture
+   3. Admin/organizer:
+      * Make surveys and disseminating responses/feedback
+      * Upload lecture recordings
+      * Set up bluejeans/reserving room
+      * Recruit TAs
+      * Make sure there are enough TAs per session, when things come up from TAs
+      * Make sure TAs have needed material for the week
 * Go over feedback from last year's participants
 * Decide on Dates
    1. Date to end student registration
@@ -39,6 +58,9 @@ A few months out meet with TAs (first meeting)
 * Assign who will teach which lectures
    1. Alternating Lecturers in the past made it too confusing for students, and lack cohesion.
    2. I found that if a lecturer plans to teach lectures he/she must attend previous lectures so that he/she is familiar with what the students already know or do not know. 
+* Can GCB endorse student's programming skills on Linked In after taking the course?
+   1. Maureen says she can endorse as GCB coordinator on Linked In, but not via the GCB Linked In group. Would need to provide students her contact.
+   2. Note: This will be in place of a certificate/credit, which we cannot do unfortunately
 
 
 Right After Meeting but Before Class Starts
